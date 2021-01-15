@@ -2,7 +2,7 @@
 
 ## Goal
 ____
-The goal of this is to determine the best features in order to classify US Census data income.
+The goal of this is to determine the best features in order to classify a persons income based on U.S. Census data.
 
 ## Directory
 ____
